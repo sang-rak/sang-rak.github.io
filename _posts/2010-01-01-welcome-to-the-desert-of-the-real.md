@@ -1,11 +1,10 @@
 ---
 date: 2021-06-06T23:46:05.000Z
 layout: post
-title: 고객 참여형 AI모델 개발자
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+title: 박상락 개발자 블로그
+subtitle: '고객 참여형 AI모델 개발자'
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  현재 까지 참여한 프로젝트를 정리한 사이트 입니다.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
@@ -14,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
+author: sang-rak
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
