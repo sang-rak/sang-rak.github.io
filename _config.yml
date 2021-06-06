@@ -31,10 +31,9 @@ formspree_form_id: formspree_form_id
 # Remove the item if you don't need it
 github_username: sang-rak
 facebook_username: 100004419100005
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+instagram_username: sg_rack
+linkedin_username: 상락-박-74425a214/
+
 
 
 # Posts Settings
@@ -105,4 +104,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+version: v1.1.1
