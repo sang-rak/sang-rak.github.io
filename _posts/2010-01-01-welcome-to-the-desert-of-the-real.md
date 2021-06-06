@@ -1,7 +1,7 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: 2021-06-06T23:46:05.000Z
 layout: post
-title: Welcome to the desert of the real
+title: 고객 참여형 AI모델 개발자
 subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
