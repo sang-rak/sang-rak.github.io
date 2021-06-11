@@ -5,13 +5,9 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="https://avatars.githubusercontent.com/u/62869880?v=4" alt="Thiago Rossener" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+데이터청년캠퍼스를 시작으로 데이터사이언스 연구소 인턴 후 webRTC를 이용한 화상회의 개발 및 얼굴인식에 관심을 가지고
+현재 SSAFY 5기로 활동중인 server 개발자 입니다. 
