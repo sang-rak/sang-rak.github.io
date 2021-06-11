@@ -8,10 +8,19 @@ image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_760/v15060792
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1506079212/jekflix-capa_vfhuzh.png
 category: Personal WebRTC
 tags:
-  - css
-  - tips
+  - zoom
+  - vision AI
+  - vue
+  - Django
 author: sang-rak
 ---
+
+
+화상회의 사이트입니다.
+
+URL: 
+
+
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
