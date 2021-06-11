@@ -1,17 +1,24 @@
 ---
-date: 2018-04-21 12:26:40
+date: 2021-02-08 12:26:40
 layout: post
-title: Candy, candies, candy!
+title: kakao-friends similar test!
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559822137/theme11_vei7iw.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
+image: /assets/img/posts/kakao-friends-similar-test.png
+optimized_image: /assets/img/posts/kakao-friends-similar-test.png
 category: Personal KAKAO
 tags:
-  - food
-  - tips
+  - js
+  - vision AI
 author: sang-rak
 ---
+
+얼굴로 보는 인공지능 카카오 프렌즈 테스트
+
+URL: https://selectbox.netlify.app/
+
+optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822137/theme11_vei7iw.jpg
+
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
@@ -124,7 +131,6 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
 
 
 
