@@ -1,11 +1,11 @@
 ---
-date: 2018-07-20 12:26:40
+date: 2020-09-25 12:26:40
 layout: post
-title: A wonderful serenity has taken possession of my entire soul
+title: GS Caltex 물성수지 예측 플랫폼
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559820489/js-code_n83m7a.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559820489/js-code_n83m7a.jpg
+image: /assets/img/posts/gscaltex-platform-1.png
+optimized_image: /assets/img/posts/gscaltex-platform-1.png
 category: GS Caltex
 tags:
   - flask
@@ -13,6 +13,13 @@ tags:
   - machine learning
 author: sang-rak
 ---
+
+GS Caltex 물성수지 예측 플랫폼
+
+todolist: url heroku로 수정
+URL: https://gscaltex-platform.netlify.app
+
+![gscaltex-platform-result](/assets/img/posts/gscaltex-platform-result.png)
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
