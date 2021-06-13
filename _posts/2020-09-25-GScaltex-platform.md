@@ -10,13 +10,15 @@ category: GS Caltex
 tags:
   - flask
   - HTML
-  - machine learning
+  - DNN
 author: sang-rak
 ---
 
 GS Caltex 물성수지 예측 플랫폼
 
-todolist: url heroku로 수정
+todolist: url heroku로 수정 예정이였으나
+
+tensorflow의 용량이 500mb이넘어서 동영상대체 or 해결방안(AWS) 제시 필요
 URL: https://gscaltex-platform.netlify.app
 
 ![gscaltex-platform-result](/assets/img/posts/gscaltex-platform-result.png)
@@ -132,7 +134,6 @@ Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, conse
 </table>
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
 
 
 
