@@ -20,6 +20,8 @@ paginate: true
 
 얼굴을 감지하는 영화 추천 사이트입니다.
 
+최초 접속 후 2분 뒤 정상작동하니 재접속을 해야합니다.
+
 URL: https://sbox-movie.netlify.app/
 
 
