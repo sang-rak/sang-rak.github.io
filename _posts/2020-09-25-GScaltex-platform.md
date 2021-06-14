@@ -1,7 +1,7 @@
 ---
 date: 2020-09-25 12:26:40
 layout: post
-title: GS Caltex 물성수지 예측 플랫폼
+title: GS Caltex 복합수지 물성 예측 플랫폼
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: /assets/img/posts/gscaltex-platform-1.png
