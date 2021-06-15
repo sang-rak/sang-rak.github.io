@@ -15,4 +15,5 @@ author: sang-rak
 
 얼굴로 보는 인공지능 카카오 프렌즈 테스트
 
-URL: https://selectbox.netlify.app/
+URL: <a> https://selectbox.netlify.app/</a>
+

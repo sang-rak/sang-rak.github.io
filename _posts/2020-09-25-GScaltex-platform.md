@@ -19,8 +19,7 @@ GS Caltex 물성수지 예측 플랫폼
 todolist: url heroku로 수정 예정이였으나
 
 tensorflow의 용량이 500mb이넘어서 동영상대체 or 해결방안(AWS) 제시 필요
-URL: https://gscaltex-platform.netlify.app
-
+URL: <a> https://gscaltex-platform.netlify.app </a>
 ![gscaltex-platform-result](/assets/img/posts/gscaltex-platform-result.png)
 
 

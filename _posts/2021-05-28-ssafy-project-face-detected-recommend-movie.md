@@ -22,8 +22,7 @@ paginate: true
 
 최초 접속 후 2분 뒤 정상작동하니 재접속을 해야합니다.
 
-URL: https://sbox-movie.netlify.app/
-
+URL: <a> https://sbox-movie.netlify.app/</a>
 
 
 Face-sensing movie recommendation site.
