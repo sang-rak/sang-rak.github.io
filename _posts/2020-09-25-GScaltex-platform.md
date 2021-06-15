@@ -2,8 +2,8 @@
 date: 2020-09-25 12:26:40
 layout: post
 title: GS Caltex 복합수지 물성 예측 플랫폼
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: 
+subtitle: GS Caltex 복합수지 물성 예측 플랫폼
+description: GS Caltex 연구소 데이터로 학습하고 복합 수지 물성을 예측하여 실험횟수를 줄여줍니다.
 image: /assets/img/posts/gscaltex-platform-1.png
 optimized_image: /assets/img/posts/gscaltex-platform-1.png
 category: GS Caltex

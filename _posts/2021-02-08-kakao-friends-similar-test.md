@@ -3,7 +3,7 @@ date: 2021-02-08 12:26:40
 layout: post
 title: kakao-friends similar test!
 subtitle: 얼굴로 보는 인공지능 카카오 프렌즈 테스트
-description: 
+description: 얼굴로 보는 인공지능 카카오 프렌즈 테스트
 image: /assets/img/posts/kakao-friends-similar-test.png
 optimized_image: /assets/img/posts/kakao-friends-similar-test.png
 category: Personal KAKAO
