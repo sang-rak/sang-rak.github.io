@@ -3,7 +3,7 @@ date: 2021-05-06 12:26:40
 layout: post
 title: Water supply Pipe Leak Preventive Maintenance Model
 subtitle: NGBoost 모델로 상수관의 노후도 평가를 위한 새로운 평가방법
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: 
 image: /assets/img/posts/2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021312294.png
 optimized_image: /assets/img/posts/2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021312294.png
 category: Thesis Presentation
