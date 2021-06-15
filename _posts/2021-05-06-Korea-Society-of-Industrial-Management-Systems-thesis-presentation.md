@@ -35,11 +35,12 @@ author: sang-rak
 
  
 
-​                                ![image-20210615021312294](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021312294.png)
+​                                ![image-20210615021312294](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021312294.png)
 
                      <Figure 1> Leak Pipe Problem 
 
  
+
 
 
 본 논문에서는 경상북도 GM지역의 배·급수 관망을 적용대상으로 진행하였으며, 시청의 GIS관로 자료와 상하수도사업소의 누수공사대장주소를 Geocoding 하여 QGIS의 NNJOIN알고리즘을 통해 누수지점을 매칭하여 [Fig.2]와 같이 표현하였다. 
@@ -48,7 +49,7 @@ author: sang-rak
 
 매칭된 전체 관 중 누수 관의 연식을 기준으로 수명 예측을 진행하였다. 전체 관의 노후도 정도를 직관적으로 파악할 수 있도록 노후도를 5등급으로 나누어 관망도에 도시하였다. 본 연구에서 제안한 노후관 평가기법은 관의 블록단위가 아닌 관 별로 누수를 파악하여 관의 특성과 노후에 영향을 미치는 주변환경의 다양한 요인을 적용하였다. 단순 시간에 따른 노후도 평가가 아닌 상수관의 유지관리를 위한 객관적이고 합리적인 예측을 통해 관망 예지보전을 통한 유수 율 증가를 기대한다. 
 
-  ![image-20210615021401345](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021401345.png)
+  ![image-20210615021401345](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021401345.png)
 
 <Figure 2> Leak Set NNJOIN 
 
@@ -76,7 +77,7 @@ author: sang-rak
 
 Decision Tree는 분류(Classification)와 회귀(Regression) 모두 가능한 지도 학습 모델 중 하나입니다. 결정 트리는 질문을 이어가며 이분법적으로 학습합니다. 기린과 코뿔소를 구분한다면 ‘목의 길이가 2m이상인가요?’ 라는 질문을 통해 기린과 코뿔소를 나눌 수 있습니다. 코뿔소와 토끼는 ‘뿔이 있나요?’ 라는 질문으로 나눌 수 있습니다. 아래는 결정 트리를 도식화한 것입니다.
 
-![image-20210615021408717](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021408717.png)
+![image-20210615021408717](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021408717.png)
 
   <Figure 3> Tree Model 
 
@@ -86,7 +87,7 @@ Decision Tree는 분류(Classification)와 회귀(Regression) 모두 가능한 �
 
  
 
- ![image-20210615021412332](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021412332.png)
+ ![image-20210615021412332](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021412332.png)
 
 <Figure 4> Leak Set NNJOIN 
 
@@ -118,7 +119,7 @@ Decision Tree는 분류(Classification)와 회귀(Regression) 모두 가능한 �
 
  
 
- ![image-20210615021422257](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021422257.png)
+ ![image-20210615021422257](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021422257.png)
 
 <Figure 5>               Random Forest Conceptual Diagram
 
@@ -142,7 +143,7 @@ Decision Tree는 분류(Classification)와 회귀(Regression) 모두 가능한 �
 
  
 
- ![image-20210615021428744](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021428744.png)
+ ![image-20210615021428744](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021428744.png)
 
 <Figure 6> Standard Analysis Model    Data Set
 
@@ -162,21 +163,21 @@ Decision Tree는 분류(Classification)와 회귀(Regression) 모두 가능한 �
 
  
 
-  ![image-20210615021433745](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021433745.png)
+  ![image-20210615021433745](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021433745.png)
 
 <Figure 7> Standard Analysis Model Matrix 
 
  여기서 Recall이란 누수관을 찾는 기준으로 보아야한다. 단순히 모두 정상관이라 예측 하더라도 누수관이 비교적 작은 값이기에 정확도는 높게 나오는 문제가 발생하기 때문이다. 이러한 데이터의 불균형 문제점을 해결하기 위해 정상관과 누수관을 분류한 데이터셋과 예측모델이 아닌 누수관의 연식을 통해 관의 남은 연식을 예측하는 회귀모델로 구상하고 회귀모델에 적합하게 데이터셋 구성을 [Fig.8]과 같이 하였다.
 
-  ![image-20210615021437869](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021437869.png)
+  ![image-20210615021437869](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021437869.png)
 
 <Figure 8-1> GM Region Pipe Data Set
 
- ![image-20210615021441078](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021441078.png)
+ ![image-20210615021441078](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021441078.png)
 
 <Figure 8-2> GM Region Pipe Data Set  
 
-![image-20210615021455640](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021455640.png)
+![image-20210615021455640](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021455640.png)
 
 <Figure 8-3> GM Region Pipe Kind   Data Definition
 
@@ -244,13 +245,13 @@ Decision Tree는 분류(Classification)와 회귀(Regression) 모두 가능한 �
 
 
 
- ![image-20210615021524332](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021524332.png)
+ ![image-20210615021524332](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021524332.png)
 
 <Figure 10-2> XGBoost model data
 
 
 
- ![image-20210615021527076](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021527076.png)
+ ![image-20210615021527076](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021527076.png)
 
 <Figure 10-3> NGBoost model data
 
@@ -286,17 +287,17 @@ NGBoost를 사용하기 위해 Python언어를 사용하였다. 본 논문에서
 
  
 
- ![image-20210615021532861](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021532861.png)
+ ![image-20210615021532861](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021532861.png)
 
 <Figure 11> NGBoost Feature Importance
 
 
 
- ![image-20210615021537533](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021537533.png)
+ ![image-20210615021537533](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021537533.png)
 
 <Figure 12-1> SHAP Result
 
- ![image-20210615021549878](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021549878.png)
+ ![image-20210615021549878](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021549878.png)
 
  
 
@@ -310,15 +311,15 @@ NGBoost의 결과치를 2021년기준 남은 누수까지의 연식을 위험할
 
 ​    
 
- ![image-20210615021557800](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021557800.png)
+ ![image-20210615021557800](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021557800.png)
 
 <Figure 13-1> Risk visualization    [Five-step classification]
 
-​    ![image-20210615021601266](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021601266.png)
+​    ![image-20210615021601266](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021601266.png)
 
 <Figure 13-2> Risk visualization    [Five-step classification]
 
-​    ![image-20210615021604434](2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021604434.png)
+​    ![image-20210615021604434](2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021604434.png)
 
 <Figure 13-3> Risk visualization    [Five-step classification]
 
