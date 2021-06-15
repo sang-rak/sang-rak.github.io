@@ -4,8 +4,8 @@ layout: post
 title: Water supply Pipe Leak Preventive Maintenance Model
 subtitle: NGBoost 모델로 상수관의 노후도 평가를 위한 새로운 평가방법
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: 2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021312294.png
-optimized_image: 2021-05-06-한국산업경영시스템학회 논문발표.assets/image-20210615021312294.png
+image: /assets/img/posts/2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021312294.png
+optimized_image: /assets/img/posts/2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021312294.png
 category: Thesis Presentation
 tags:
   - SHAP
@@ -17,7 +17,9 @@ author: sang-rak
 
 
 
-​        **Water    supply Pipe Leak Preventive**     **Maintenance Model**         **Sangrak Park1, Jonghwan Lee2**         **Department of Industrial Engineering, Kumoh    National Institute of Technology**              **상수도관 누수 예지 보전 관리 모델**         **박상락1, 이종환****2**         **금오공과대학교    산업공학부**              South Korea's water flow rate is    lower than that of developed countries, most of which are believed to be    due to leaks in the water supply and drainage channels. Leakage is judged    to be a leak when the supply volume increases compared to the previous day.             However, sudden increase and    decrease in demand often occur, and in the event of an accident, it is    impossible to predict a real-time leak, so it takes a long time to take    measures after the accident.         However, it is not possible to    repair and replace all old pipes at the same time, so the priority for    upgrading water pipes should be determined by predicting the deterioration    of the pipes in use. This study suggested that the NGBoost (Natural Gradient Boosting) technique could be a new    evaluation method for assessing the deterioration of water pipes.          In this paper, the drainage pipe    network of the GM area of Gyeongsanbuk-do was applied, and the data of the    GIS pipeline of the city hall and the leakage construction ledger of the    waterworks office were matched through NNJOIN Algorithm of QGIS.          The life expectancy prediction    was carried out based on the model year of the leaky pipe among the matched    total tubes. In order to intuitively understand the degree of deterioration    of the entire target pipeline, the aging level was divided into five grades    and displayed on the pipe network map.         The aging tube evaluation    technique proposed in this study was applied with various factors in the    surrounding environment that affect the characteristics and old age of the    pipe by identifying the leakage by tube, not by block unit of the pipe. It    is expected that the water flow rate will increase through the preservation    of pipe network forecasts through objective and reasonable predictions for    maintenance of water pipes rather than the evaluation of aging over a    simple period.                                  Keywords: Ant Colony Optimization Algorithm, Leak Pipeline Problem,    prediction manager,         
+  **Water supply Pipe Leak Preventive Maintenance Model**         
+
+  **상수도관 누수 예지 보전 관리 모델 **
 
 
 
@@ -33,11 +35,11 @@ author: sang-rak
 
 본 연구에서는 NGBoost(Natural Gradient Boosting)기법이 상수관의 노후도 평가를 위한 새로운 평가방법이 될 수 있음을 제시하였다. 
 
-​![image-20210615021312294](/assets/img/posts/2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021312294.png)
+![image-20210615021312294](/assets/img/posts/2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021312294.png)
 
 <Figure 1> Leak Pipe Problem 
 
- 
+
 
 
 
