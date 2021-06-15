@@ -33,9 +33,7 @@ author: sang-rak
 
 본 연구에서는 NGBoost(Natural Gradient Boosting)기법이 상수관의 노후도 평가를 위한 새로운 평가방법이 될 수 있음을 제시하였다. 
 
- 
-
-​                                ![image-20210615021312294](/2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021312294.png)
+​![image-20210615021312294](/assets/img/posts/2021-05-06-Korea-Society-of-Industrial-Management-Systems-thesis-presentation.assets/image-20210615021312294.png)
 
                      <Figure 1> Leak Pipe Problem 
 
