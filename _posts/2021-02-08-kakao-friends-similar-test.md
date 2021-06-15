@@ -17,3 +17,6 @@ author: sang-rak
 
 URL: <a> https://selectbox.netlify.app/</a>
 
+
+
+카카오 프렌즈 캐릭터를 학습하여 업로드한 사진과 닮은 캐릭터를 추천하고 간단한 설명을 보여줍니다.
