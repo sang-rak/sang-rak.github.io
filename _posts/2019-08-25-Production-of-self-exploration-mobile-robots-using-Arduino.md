@@ -18,5 +18,5 @@ author: sang-rak
 
 
 
-<video src="../assets/img/posts/자율시행 동영상.mp4"></video>
+<video src="/assets/img/posts/robots using Arduino.mp4"></video>
 
