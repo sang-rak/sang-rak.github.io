@@ -16,7 +16,8 @@ author: sang-rak
 
 아두이노를 이용한 자율탐색 모바일 로봇 제작
 
+![robots using Arduino](/assets/img/posts/robots using Arduino.mp4)
 
 
-<video src="./assets/img/posts/robots using Arduino.mp4"></video>
 
+<video src="../assets/img/posts/robots using Arduino.mp4"></video>
