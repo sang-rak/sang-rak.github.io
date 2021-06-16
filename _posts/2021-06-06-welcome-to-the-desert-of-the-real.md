@@ -1,7 +1,7 @@
 ---
 date: 2021-06-06T23:46:05.000Z
 layout: post
-title: 박상락 개발자 Blog
+title: Learning By Doing
 subtitle: '고객 참여형 AI모델 개발자'
 description: >-
   현재 까지 참여한 프로젝트를 정리한 사이트 입니다.

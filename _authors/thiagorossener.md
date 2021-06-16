@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: https://avatars.githubusercontent.com/u/62869880?v=4
 name: sang-rak
 display_name: sang-rak
 position: data engineer

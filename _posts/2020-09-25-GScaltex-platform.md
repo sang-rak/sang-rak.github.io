@@ -28,6 +28,7 @@ URL: <a> https://gscaltex-platform.netlify.app </a>
 
 ```
 %pip install tensorflow
+%pip install Flask
 python flask_app.py
 ```
 
