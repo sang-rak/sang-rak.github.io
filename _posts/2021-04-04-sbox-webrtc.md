@@ -21,3 +21,6 @@ todolist webRTC - vue
 
 URL:  https://sbox-webrtc.netlify.app/#/
 
+
+
+todolist - aws ml을 이용한 이미지 인식
